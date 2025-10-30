@@ -1,5 +1,3 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://github.com/Amr-Adel)
-
 ### Hi, I'm Amr Adel
 I’m learning and developing skills in **C++** and **Python**.  
 Interested in **Cybersecurity** and building practical programming projects.
